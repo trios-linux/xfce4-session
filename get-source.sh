@@ -8,7 +8,7 @@
 
 # Set the package version and name:
 NAME=xfce4-session
-VER=4.12.0
+VER=4.12.1
 PKG=$NAME-$VER.tar.bz2
 
 
